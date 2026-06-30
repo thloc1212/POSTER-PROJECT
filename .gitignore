@@ -1,0 +1,29 @@
+# model weights
+models/pretrain/
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+*.onnx
+
+# env
+.env
+.env.local
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# cache/log
+.cache/
+cache/
+logs/
+*.log
+
+# system
+.DS_Store
+Thumbs.db
